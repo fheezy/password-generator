@@ -1,5 +1,8 @@
 // Assignment code here
-
+var uppercase =["A","B","C","D","E"];
+var lowercase = ["a","b","c","d","e"];
+var specialCharacters = ["!","@","#","$","%"];
+var numericCharacters = ["0","1","2","3","4","5"];
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
