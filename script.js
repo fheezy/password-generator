@@ -1,5 +1,5 @@
 // Assignment code here
-var uppercase =["A","B","C","D","E"];
+var uppercase =["A","B","C","D","E","F","G","H","I","J"];
 var lowercase = ["a","b","c","d","e"];
 var specialCharacters = ["!","@","#","$","%"];
 var numericCharacters = ["0","1","2","3","4","5"];
