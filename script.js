@@ -51,6 +51,7 @@ function generatePassword(){
      console.log(pword);
      return pword
      //use the join method to convert pword array into a string
+     let text = pword.join()
 }
 // Write password to the #password input
 function writePassword() {
